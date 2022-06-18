@@ -1,9 +1,11 @@
 # 3D Houses Project using LIDAR
+
 ![newplot ](https://user-images.githubusercontent.com/96992159/157040491-3516d91c-c4fd-4213-805d-02b0afb3687d.png)
 
 
 
-#### Technical Details:
+* [ Project PPT](https://docs.google.com/presentation/d/1_iGox8LxbZbq-qchUwSBZtLQAxK3sfuWguTtOa1ffR4/edit#slide=id.p)
+### Technical Details:
 
 - Data Source:
   - [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
@@ -31,5 +33,9 @@ Using `Rasterio` library `Geotiff` file is read and visualised. The home address
 
 ## 3D House
 The plotted address on `Geotiff` is cropped to a window using `rasterio.window.from_bounds` and plotted using `Plotly`. 
+
+
+
+
 
 
