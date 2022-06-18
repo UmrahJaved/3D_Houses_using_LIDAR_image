@@ -1,6 +1,6 @@
 # 3D Houses Project using LIDAR
 
-![maurice](https://user-images.githubusercontent.com/96992159/174431867-0cf3042b-66fd-4540-9819-3f60e3b61572.gif)
+![image_gif](https://user-images.githubusercontent.com/96992159/174431967-e753d62c-0b8a-4b51-b7ac-7a99bf20279f.gif)
 
 
 
